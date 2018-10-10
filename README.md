@@ -18,12 +18,15 @@ If Distribution Group don't exist, then created
 ## Mandatory parameter
 
 -PathCsv : Specified CSV file
+
 -HeaderDistributionGroup : Field to identify Distribution Group name 
+
 -HeaderMailAddress : Field to identify mail address to add on Distribution Group
 
 ## Optionnal Parameter
 
 -OrganizationalUnit : Field to specified Active Directory OU to created Distribution Group
+
 -Delimiter : By default, CSV delimiter is ';' character but if you want, you can specified another character
 
 # Script excecution
