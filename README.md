@@ -49,11 +49,11 @@ If Distribution Group don't exist, then created
 ```
 Name;E-Mail;DistributionGroup
 User1 Name;user1.name@domain.com;Distribution_group1
-User2 Name;user1.name@domain.com;Distribution_group1
-User3 Name;user1.name@domain.com;Distribution_group2
-User4 Name;user1.name@domain.com;Distribution_group1
-User5 Name;user1.name@domain.com;Distribution_group2
-User6 Name;user1.name@domain.com;Distribution_group3
+User2 Name;user2.name@domain.com;Distribution_group1
+User3 Name;user3.name@domain.com;Distribution_group2
+User4 Name;user4.name@domain.com;Distribution_group1
+User5 Name;user5.name@domain.com;Distribution_group2
+User6 Name;user6.name@domain.com;Distribution_group3
 ```
 
 With this example, use the following command :
